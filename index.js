@@ -18,7 +18,7 @@ const promptTemplate = PromptTemplate.fromTemplate(`
 
 const chain = promptTemplate.pipe(model)
 
-chain.invoke({ topic: "express" })
+chain.invoke({ topic: "AI" })
     .then(response => {
         console.log(response);
     })
