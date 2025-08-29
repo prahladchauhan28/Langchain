@@ -1,4 +1,4 @@
-# LangChain Gemini Example
+# 🐦🔗 LangChain Gemini Example
 
 A simple **Node.js** project using **LangChain.js** with **Google Generative AI (Gemini 2.0 Flash)**.  
 This project generates concise, easy-to-understand explanations of any topic in **ELI5 (Explain Like I’m 5)** style.
